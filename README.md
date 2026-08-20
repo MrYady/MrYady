@@ -2,15 +2,11 @@
 
 # 🧪 TODOLOGO 🧪
 ### *"Bienvenido a mi dimensión de código"*
-
-<!-- 👇 Pega aquí el link de tu GIF favorito de Rick y Morty (ver instrucciones al final) -->
-<img src="https://i.pinimg.com/originals/cf/94/04/cf940473097ca8f533b759e2f6f49875.gif" width="300"/>
-
 ![Badge](https://img.shields.io/badge/DIMENSI%C3%93N-C--137-brightgreen?style=for-the-badge)
 ![Badge](https://img.shields.io/badge/STATUS-EXPERIMENTANDO-blueviolet?style=for-the-badge)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=97E01E&center=true&vCenter=true&width=500&lines=Wubba+Lubba+Dub+Dub!;Explorando+el+multiverso+del+c%C3%B3digo...;Convirtiendo+caf%C3%A9+en+commits.;Y+a+veces...+en+un+pepinillo." alt="Typing SVG" />
-
+<!-- 👇 Pega aquí el link de tu GIF favorito de Rick y Morty (ver instrucciones al final) -->
+<img src="https://i.pinimg.com/originals/cf/94/04/cf940473097ca8f533b759e2f6f49875.gif" width="300"/>
 </div>
 
 ---
