@@ -48,11 +48,9 @@ Soy **Todologo**, un dev que viaja entre dimensiones experimentando llendo de pr
 ---
 
 <div align="center">
-
+*"¿Que Porqué lo hago? -Porque puedo."*
+  
 ### GRACIAS POR VISITAR MI DIMENSIÓN 🌀
-
-*"que Porqué lo hago? Porque puedo."*
-
 <img src="https://i.pinimg.com/originals/fa/f6/74/faf674be6b48113668aa5acefe4ed12d.gif" width="300"/>
 </div>
 
