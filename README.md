@@ -1,10 +1,10 @@
 <div align="center">
 
 # 🧪 TODOLOGO 🧪
-### *"Wubba Lubba Dub Dub! Bienvenido a mi dimensión de código"*
+### *"Bienvenido a mi dimensión de código"*
 
 <!-- 👇 Pega aquí el link de tu GIF favorito de Rick y Morty (ver instrucciones al final) -->
-<img src="PEGA_AQUI_TU_LINK_DE_GIF" width="300"/>
+<img src="https://i.pinimg.com/originals/fa/f6/74/faf674be6b48113668aa5acefe4ed12d.gif" width="300"/>
 
 ![Badge](https://img.shields.io/badge/DIMENSI%C3%93N-C--137-brightgreen?style=for-the-badge)
 ![Badge](https://img.shields.io/badge/STATUS-EXPERIMENTANDO-blueviolet?style=for-the-badge)
