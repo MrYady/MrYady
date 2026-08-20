@@ -41,7 +41,7 @@ Soy **Todologo**, un dev que viaja entre dimensiones experimentando llendo de pr
 
 <div align="center">
 
-💬 ¿Tienes una aventura interdimensional (proyecto) para proponerme?
+💬 ¿Tienes una aventura interesante para me?
 
 </div>
 
