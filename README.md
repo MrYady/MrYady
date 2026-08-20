@@ -4,7 +4,7 @@
 ### *"Bienvenido a mi dimensión de código"*
 
 <!-- 👇 Pega aquí el link de tu GIF favorito de Rick y Morty (ver instrucciones al final) -->
-<img src="https://i.pinimg.com/originals/fa/f6/74/faf674be6b48113668aa5acefe4ed12d.gif" width="300"/>
+<img src="https://i.pinimg.com/originals/cf/94/04/cf940473097ca8f533b759e2f6f49875.gif" width="300"/>
 
 ![Badge](https://img.shields.io/badge/DIMENSI%C3%93N-C--137-brightgreen?style=for-the-badge)
 ![Badge](https://img.shields.io/badge/STATUS-EXPERIMENTANDO-blueviolet?style=for-the-badge)
@@ -20,12 +20,12 @@
 > *"En un universo infinito, hay infinitas versiones de mí escribiendo código."*
 > — Probablemente yo, en algún timeline
 
-Soy **Todologo**, un dev que viaja entre dimensiones (repositorios) buscando el proyecto perfecto. A veces exploto cosas (bugs), a veces creo portales (deploys exitosos).
+Soy **Todologo**, un dev que viaja entre dimensiones experimentando llendo de proyecto en proyecto. A veces creo, muchas veces destruyo, Pero siempre explota algo.
 
-- 🔬 Experimentando con nuevas tecnologías en el garaje
-- 🌌 Explorando el multiverso del código, un repo a la vez
+- 🔬 Experimentando con nuevas tecnologías de garaje
+- 🌌 Explorando el multiverso de la tecnologia, un area a la vez
 - 🥒 A veces me convierto en pepinillo para evitar hacer testing
-- ☕ Combustible: café con toxina de mutación genética (opcional)
+- ☕ Combustible: Azucar
 
 ---
 
@@ -55,8 +55,9 @@ Soy **Todologo**, un dev que viaja entre dimensiones (repositorios) buscando el 
 
 ### GRACIAS POR VISITAR MI DIMENSIÓN 🌀
 
-*"Todo es posible, la existencia es dolor, pero al menos el código compila."*
+*"que Porqué lo hago? Porque puedo."*
 
+<img src="https://i.pinimg.com/originals/fa/f6/74/faf674be6b48113668aa5acefe4ed12d.gif" width="300"/>
 </div>
 
 <!--
