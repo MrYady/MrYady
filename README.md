@@ -2,7 +2,7 @@
 
 # 🧪 TODOLOGO 🧪
 ### *"Bienvenido a mi dimensión de código"*
-![Badge](https://img.shields.io/badge/DIMENSI%C3%93N-C--137-brightgreen?style=for-the-badge)
+![Badge](https://img.shields.io/badge/DIMENSI%C3%93N-W--710-brightgreen?style=for-the-badge)
 ![Badge](https://img.shields.io/badge/STATUS-EXPERIMENTANDO-blueviolet?style=for-the-badge)
 
 <!-- 👇 Pega aquí el link de tu GIF favorito de Rick y Morty (ver instrucciones al final) -->
