@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🧪 TODOLOGO 🧪
-### *"Bienvenido a mi dimensión de código"*
+### *"Bienvenido a mi dimensión"*
 ![Badge](https://img.shields.io/badge/DIMENSI%C3%93N-W--710-brightgreen?style=for-the-badge)
 ![Badge](https://img.shields.io/badge/STATUS-EXPERIMENTANDO-blueviolet?style=for-the-badge)
 
