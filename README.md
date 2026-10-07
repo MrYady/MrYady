@@ -45,7 +45,7 @@ Soy **Todologo**, un #### que viaja entre dimensiones experimentando, yendo de p
 <div align="center">
 
 💬 ¿Tienes una aventura interesante para mi?
-
+> *Hombre pajaro si eres tu, trae una botella.*
 </div>
 
 ---
