@@ -13,35 +13,38 @@
 
 ## 🌀 SOBRE MÍ
 
-> *"En un universo infinito, hay infinitas versiones de mí escribiendo código."*
+> *"En un universo infinito, hay infinitas versiones de mí explotando capacitores."*
 > — Probablemente yo, en algún timeline
 
-Soy **Todologo**, un dev que viaja entre dimensiones experimentando llendo de proyecto en proyecto. A veces creo, muchas veces destruyo, Pero siempre explota algo.
+Soy **Todologo**, un #### que viaja entre dimensiones experimentando, yendo de proyecto en proyecto. A veces creo, muchas veces destruyo, Pero siempre explota algo.
 
-- 🔬 Experimentando con nuevas tecnologías de garaje
-- 🌌 Explorando el multiverso de la tecnologia, un area a la vez
-- 🥒 A veces me convierto en pepinillo para evitar hacer testing
-- ☕ Combustible: Azucar
+- 🔬 Experimentando con nuevas tecnologías.
+- 🌌 Explorando el multiverso de la tecnologia, un area a la vez.
+- 🥒 A veces me convierto en pepinillo para evitar hacer testing.
+- ☕ Combustible: Azucar.
 
 ---
 
 ## ⚗️ MI LABORATORIO (Tech Stack)
 
 **Lenguajes:**
-`JavaScript` `Python` `TypeScript` `HTML/CSS`
+ `JavaScript` `Python` `TypeScript` `HTML/CSS` `Json`
+`Java` `kotlin` `C#` `ASP` `C` `SQL`
 
 **Herramientas & Portales:**
-`Git` `Node.js` `React` `VS Code`
+`Git` `Node.js` `React` `VS Code` `FireBase` `QSL Server` `MongoDB`
+`Krita` `Photoshop` `illustrator` `After Effects` `android Studio` `Unity`
+`SAS` `power BI`
 
-> *Reemplaza esta lista con tu stack real, Morty... digo, tú.*
+> *Deja de tocar mi tecnologia Morty.*
 
 ---
 
-## 📡 PORTAL DE CONTACTO
+## 📡 CONTACTAME
 
 <div align="center">
 
-💬 ¿Tienes una aventura interesante para me?
+💬 ¿Tienes una aventura interesante para mi?
 
 </div>
 
