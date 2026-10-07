@@ -29,12 +29,12 @@ Soy **Todologo**, un #### que viaja entre dimensiones experimentando, yendo de p
 
 **Lenguajes:**
  `JavaScript` `Python` `TypeScript` `HTML/CSS` `Json`
-`Java` `kotlin` `C#` `ASP` `C` `SQL`
+`Java` `kotlin` `C#` `ASP` `C` `SQL` > — Morty tu sigue con esto.
 
 **Herramientas & Portales:**
 `Git` `Node.js` `React` `VS Code` `FireBase` `QSL Server` `MongoDB`
 `Krita` `Photoshop` `illustrator` `After Effects` `android Studio` `Unity`
-`SAS` `power BI`
+`SAS` `power BI` > — Morty tambien esto!! 
 
 > *Deja de tocar mi tecnologia Morty.*
 
