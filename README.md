@@ -56,4 +56,4 @@ Soy **Todologo**, un #### que viaja entre dimensiones experimentando, yendo de p
 ### Gracias por visitar mi imención. No vuelvas pronto 🌀
 > *Deja de tocar mis cosas Morty!!*
 <img src="https://i.pinimg.com/originals/fa/f6/74/faf674be6b48113668aa5acefe4ed12d.gif" width="300"/>
-</div>
+</div> 
